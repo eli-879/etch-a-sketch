@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.container-div {
+    
+    border-style:solid;
+}
+
+.active {
+    background-color: red;
+}
